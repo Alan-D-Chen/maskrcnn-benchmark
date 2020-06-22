@@ -1,7 +1,7 @@
 ## Installation
 
 ### Requirements:
-- PyTorch 1.0 from a nightly release. It **will not** work with 1.0 nor 1.0.1. Installation instructions can be found in https://pytorch.org/get-started/locally/
+- PyTorch 1.0 from a nightly release. It **will not** work with 1.0 nor 1.0.1. Installation instructions can be found in https://pytorch.org/get-started/locally/  (go for https://github.com/Alan-D-Chen/Python-ABC/blob/master/如何创建Python%20虚拟环境%EF%BC%88Pytorch%EF%BC%89.md)
 - torchvision from master
 - cocoapi
 - yacs
