@@ -1,14 +1,14 @@
 ## Installation
 
 ### Requirements:
-- PyTorch 1.0 from a nightly release. It **will not** work with 1.0 nor 1.0.1. Installation instructions can be found in https://pytorch.org/get-started/locally/  [go for it](https://github.com/Alan-D-Chen/Python-ABC/blob/master/如何创建Python%20虚拟环境%EF%BC%88Pytorch%EF%BC%89.md)
+- PyTorch 1.0 from a nightly release. It **will not** work with 1.0 nor 1.0.1. Installation instructions can be found in https://pytorch.org/get-started/locally/   -->[go for it](https://github.com/Alan-D-Chen/Python-ABC/blob/master/如何创建Python%20虚拟环境%EF%BC%88Pytorch%EF%BC%89.md)
 - torchvision from master
 - cocoapi
 - yacs
 - matplotlib
 - GCC >= 4.9
 - OpenCV
-- CUDA >= 9.0  [go to](https://www.cnblogs.com/xym4869/p/12173382.html)
+- CUDA >= 9.0  ---> [go to](https://www.cnblogs.com/xym4869/p/12173382.html)
 
 
 ### Option 1: Step-by-step installation
