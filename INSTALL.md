@@ -8,7 +8,7 @@
 - matplotlib
 - GCC >= 4.9
 - OpenCV
-- CUDA >= 9.0
+- CUDA >= 9.0  （go to https://www.cnblogs.com/xym4869/p/12173382.html）
 
 
 ### Option 1: Step-by-step installation
