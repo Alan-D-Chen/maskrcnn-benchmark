@@ -52,7 +52,7 @@ cd apex
 python setup.py install --cuda_ext --cpp_ext
 ```
 >>>If you get that issues 
-['error: command 'gcc' failed with exit status 1 #1257'](https://github.com/facebookresearch/maskrcnn-benchmark/issues/1257)
+'error: command 'gcc' failed with exit status 1 #1257' , [get this help](https://github.com/facebookresearch/maskrcnn-benchmark/issues/1257)
 
 >>>tips for help : <br> 
 *  [nvidia apex build error](https://blog.csdn.net/mm1327/article/details/106878984)
