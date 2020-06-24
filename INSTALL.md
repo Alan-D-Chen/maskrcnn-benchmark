@@ -1,7 +1,7 @@
 ## Installation
 
 ### Requirements:
-- PyTorch 1.0 from a nightly release. It **will not** work with 1.0 nor 1.0.1. Installation instructions can be found in https://pytorch.org/get-started/locally/   -->[go for it](https://github.com/Alan-D-Chen/Python-ABC/blob/master/如何创建Python%20虚拟环境%EF%BC%88Pytorch%EF%BC%89.md)
+- PyTorch 1.0 from a nightly release. It **will not** work with 1.0 nor 1.0.1. Installation instructions can be found in https://pytorch.org/get-started/locally/   --> [go for it](https://github.com/Alan-D-Chen/Python-ABC/blob/master/如何创建Python%20虚拟环境%EF%BC%88Pytorch%EF%BC%89.md)
 - torchvision from master
 - cocoapi
 - yacs
@@ -51,11 +51,9 @@ git clone https://github.com/NVIDIA/apex.git
 cd apex
 python setup.py install --cuda_ext --cpp_ext
 ```
->>>If you get that issues 
-'error: command 'gcc' failed with exit status 1 #1257' , [get this help](https://github.com/facebookresearch/maskrcnn-benchmark/issues/1257)
+>>>If you get that issues ,'error: command 'gcc' failed with exit status 1 #1257' :[get this help](https://github.com/facebookresearch/maskrcnn-benchmark/issues/1257)
 
->>>tips for help : <br> 
-*  [nvidia apex build error](https://blog.csdn.net/mm1327/article/details/106878984)
+>>>tips for help :  [nvidia apex build error](https://blog.csdn.net/mm1327/article/details/106878984)
 ```
 # install PyTorch Detection
 cd $INSTALL_DIR
